@@ -2,7 +2,7 @@
 %define		_pver	4.1
 
 Summary:	Linux Terminal Server Project - local device tools
-Summary(pl.UTF-8):   Narzędzia do urządzeń lokalnych dla terminali z Linux Terminal Server Project
+Summary(pl.UTF-8):	Narzędzia do urządzeń lokalnych dla terminali z Linux Terminal Server Project
 Name:		ltsp_localdev
 Version:	4.0.1
 Release:	0.1
