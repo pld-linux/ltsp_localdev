@@ -21,7 +21,6 @@ AutoReq:	0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_ltspdir	/home/services/ltsp
-#%define		no_install_post_strip	1
 
 %description
 LTSP is an add-on package for Linux that allows you to connect lots of
